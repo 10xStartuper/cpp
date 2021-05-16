@@ -12,25 +12,26 @@ public: //switch to public
 		Name = name;
 		ListOwnerId = listOwnerId;
 	}
+
+	//Creating mthod
+	void getInfo() {
+		//Output 
+		cout << "New Scrum app name:" << Name << endl;
+		cout << "Owner Id: " << ListOwnerId << endl;
+		cout << "To do list";
+		for (string todoList : TodoList) {
+			cout << todoList << endl;
+		}
+	}
 };
 int main() {
-
-	system("color a");
-
 	//Creating Object
 	Scrum aScrum("Educator Studio", 001456);
-
 	//Adding a list to todo list
 	aScrum.TodoList.push_back("Doo 100 pushups");
 	aScrum.TodoList.push_back("Doo 200 pushups");
+
+	aScrum.getInfo();
 	
-	//Output 
-	cout << "Hey! Welcome to my application!"<< endl;
-	cout << "New Scrum app name:" << aScrum.Name << endl;
-	cout << "Owner Id: "<<aScrum.ListOwnerId << endl;
-	cout << "To do list";
-	for (string todoList : aScrum.TodoList) {
-		cout << todoList << endl;
-	}
 	return 0;
 }
