@@ -4,6 +4,7 @@
 
 ## 📄 To do list
 
-- [x] 1. Introduction to classes and objects
-- [x] 2. What are constructors and class methods in C++
-- [ ] 3 - 7
+- [x] 1. Introduction to classes and objects.
+- [x] 2. What are constructors and class methods in C++?
+- [x] 3. What si encapsulation in programming?
+- [ ] 4-7.
