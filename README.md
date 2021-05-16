@@ -6,3 +6,4 @@
 
 - [x] 1. Introduction to classes and objects
 - [x] 2. What are constructors and class methods in C++
+- [ ] 3 - 7
