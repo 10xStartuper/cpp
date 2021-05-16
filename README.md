@@ -7,4 +7,4 @@
 - [x] 1. Introduction to classes and objects.
 - [x] 2. What are constructors and class methods in C++?
 - [x] 3. What is encapsulation in programming?
-- [ ] 4-7.
+- [x] 4. What is inheritance in programming?
