@@ -1,6 +1,6 @@
 # My jurney to Learn Object Oriented Programming in C++
 
-> The reason behind why i started C++ is because of my Final Exam which is going to be held today May 17, 2021. But what I realize is I need to know this stuff as well...
+> The reason behind why I started C++ is because of my Final Exam which is going to be held today May 17, 2021. But what I realize is I need to know this stuff as well...
 
 ## 📄 To do list
 
