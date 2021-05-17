@@ -8,3 +8,6 @@
 - [x] 2. What are constructors and class methods in C++?
 - [x] 3. What is encapsulation in programming?
 - [x] 4. What is inheritance in programming?
+- [ ] 5. What is polymorphisam in programming?
+- [ ] 6. Relationship between Virtual Functions, Pure Virtual Functions and Abstract Classes in OOP.
+- [ ] 7. Abstraction explained with real-life examples and code!
